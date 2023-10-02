@@ -1,0 +1,2 @@
+C:\Users\aleyn\OneDrive\Masaüstü\WebYazılım\CarHire\CarHire.Entity\obj\Debug\CarHire.Entity.csproj.AssemblyReference.cache
+C:\Users\aleyn\OneDrive\Masaüstü\WebYazılım\CarHire\CarHire.Entity\obj\Debug\CarHire.Entity.csproj.CoreCompileInputs.cache

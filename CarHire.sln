@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarHire.WebUI", "CarHire\CarHire.WebUI.csproj", "{1EDE0CDB-3E9D-4B59-A913-7FB775764924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarHire.Entity", "CarHire.Entity\CarHire.Entity.csproj", "{EC76BD7E-B20C-4C1D-BCA2-E3551EB3D4D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EDE0CDB-3E9D-4B59-A913-7FB775764924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDE0CDB-3E9D-4B59-A913-7FB775764924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDE0CDB-3E9D-4B59-A913-7FB775764924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDE0CDB-3E9D-4B59-A913-7FB775764924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC76BD7E-B20C-4C1D-BCA2-E3551EB3D4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC76BD7E-B20C-4C1D-BCA2-E3551EB3D4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC76BD7E-B20C-4C1D-BCA2-E3551EB3D4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC76BD7E-B20C-4C1D-BCA2-E3551EB3D4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {737FAE91-C595-450D-BC88-FCF8868CF9C8}
+	EndGlobalSection
+EndGlobal
